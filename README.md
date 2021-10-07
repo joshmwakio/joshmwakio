@@ -22,8 +22,10 @@
     />
   </a>
 </div>
-<br/>
+
+<br />
 ## I am Josh Mwakio
+
 - A .NET Developer | ReactJS Developer | Android App Developer | UX/UI Designer | Project Manager
 - Loves pepperoni pizza and a freshly brewed hot cup of coffee
 
