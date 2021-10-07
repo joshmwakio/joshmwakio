@@ -1,16 +1,28 @@
+# Hi there 
 
+<div align="left">
+  <a href="https://twitter.com/Josh_Mwakio">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/joshmwakio/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://api.daily.dev/get?r=joshmwakio" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/joshmwakio/joshmwakio/3b6ed6f4bec2ba03de99337139846b79a247011f/devcard.svg"
+    />
+  </a>
+</div>
 <!--
 **joshmwakio/joshmwakio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://app.daily.dev/Josh_Mwakio"><img src="https://api.daily.dev/devcards/7c8011e3507d42a29344c67fb5ab9ada.png?r=8md" width="400" alt="Joshua Mwakio's Dev Card"/></a>
