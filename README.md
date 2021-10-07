@@ -22,7 +22,9 @@
     />
   </a>
 </div>
-<!--
-**joshmwakio/joshmwakio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+## I am Josh Mwakio
+- A .NET Developer | ReactJS Developer | Android App Developer | UX/UI Designer | Project Manager
+- Loves pepperoni pizza and a freshly brewed hot cup of coffee
 
 
