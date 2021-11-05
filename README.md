@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/joshmwakio/joshmwakio/3b6ed6f4bec2ba03de99337139846b79a247011f/devcard.svg"
+      src="https://github.com/joshmwakio/joshmwakio/blob/master/devcard.svg"
     />
   </a>
 </div>
