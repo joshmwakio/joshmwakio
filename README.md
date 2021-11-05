@@ -18,7 +18,8 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/joshmwakio/joshmwakio/blob/master/devcard.svg"
+      src="https://github.com/joshmwakio/joshmwakio/blob/main/devcard.svg"
+      alt="Josh Mwakio Dev Card"
     />
   </a>
 </div>
