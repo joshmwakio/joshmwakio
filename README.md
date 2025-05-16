@@ -50,41 +50,6 @@ Innovative **Technical Lead** and **Full-Stack Developer** with over 5 years of 
 - **AI Integration** with Large Language Models for intelligent business applications
 - **Computer Vision** and other emerging AI technologies
 
-## 📈 Professional Journey
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen?style=flat-square" alt="5+ Years Experience" />
-  <img src="https://img.shields.io/badge/Projects-15%2B-blue?style=flat-square" alt="15+ Projects" />
-  <img src="https://img.shields.io/badge/Leadership-3%2B%20Years-orange?style=flat-square" alt="3+ Years Leadership" />
-</div>
-
-### 🚀 Technical Lead & Software Engineer | Bunifu Technologies
-*Aug 2022 - Present | Ngong, Kenya*
-
-At Bunifu Technologies, I lead the architectural design and development of enterprise software solutions, with a focus on ERP systems and business intelligence platforms. I oversee a talented development team, guiding technical decisions and implementation strategies while mentoring team members in software development best practices. My work has resulted in robust, scalable applications that streamline business operations and enhance decision-making capabilities for our clients.
-
-**Key Achievement**: Architected and delivered the Bunifu Accounts ERP system, a comprehensive management solution for educational institutions that integrates accounting, payroll, and mobile access with secure payment processing.
-
-### 💻 Back End Developer | Pioneer FSA
-*Dec 2021 - Sep 2022 | Upperhill, Kenya*
-
-- Developed and maintained **B2B Integrated Collections APIs** for Co-operative Bank
-- Advanced merchant aggregation systems for efficient onboarding and management
-- Created APIs for validating payee details against PioneerFSA ERP System
-- Designed and implemented real-time settlement systems for effective cash management
-- Developed B2B, B2C, and C2B use cases within merchant systems using **ASP.NET Web APIs**
-- Assisted in developing merchant loan systems with credit scoring algorithms
-
-### 🎨 Remote UX Developer & .NET Developer | Cyber Conformity
-*Sep 2021 - Feb 2024 | Birmingham, United Kingdom*
-
-- Designed the user interface for **Cyber File Tracker** project
-- Created intuitive UI for advanced file tracking mechanisms
-- Developed user-friendly dashboards for real-time alerts and audit logging
-- Utilized **WinForms**, **Bunifu Framework**, and **Syncfusion** libraries
-- Implemented user-centric design principles to streamline file management
-- Conducted user research and usability testing to iteratively refine interfaces
-
 ## 🎓 Education & Certifications
 
 <div align="center">
@@ -108,86 +73,62 @@ At Bunifu Technologies, I lead the architectural design and development of enter
   </table>
 </div>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technology Arsenal
 
 <div align="center">
-  <h3>Technology Proficiency</h3>
-  <table>
-    <tr>
-      <td>C# & .NET Ecosystem</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=200" alt="95%" />
-      </td>
-    </tr>
-    <tr>
-      <td>Database Design & Management</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=200" alt="90%" />
-      </td>
-    </tr>
-    <tr>
-      <td>API Development</td>
-      <td>
-        <img src="https://progress-bar.dev/92/?width=200" alt="92%" />
-      </td>
-    </tr>
-    <tr>
-      <td>Desktop UI Development</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=200" alt="95%" />
-      </td>
-    </tr>
-    <tr>
-      <td>Web Development</td>
-      <td>
-        <img src="https://progress-bar.dev/85/?width=200" alt="85%" />
-      </td>
-    </tr>
-    <tr>
-      <td>Mobile Development</td>
-      <td>
-        <img src="https://progress-bar.dev/80/?width=200" alt="80%" />
-      </td>
-    </tr>
-  </table>
+  <h3>Core Technologies & Expertise</h3>
 </div>
 
-### Backend Development
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Frontend Development
-![WPF](https://img.shields.io/badge/-WPF-0078D7?style=flat-square&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/-WinForms-0078D7?style=flat-square&logo=windows&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### Mobile Development
-![Android](https://img.shields.io/badge/-Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-
-### DevOps & Cloud
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
-### API & Integration
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-1B1F23?style=flat-square&logo=docker&logoColor=white)
-![Payment Integration](https://img.shields.io/badge/-Payment_Integration-6772E5?style=flat-square&logo=stripe&logoColor=white)
-![M-PESA Integration](https://img.shields.io/badge/-M--PESA_Integration-4CAF50?style=flat-square&logo=mpesa&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Backend-Development-512BD4?style=for-the-badge" alt="Backend Development" />
+      <br/>
+      <img src="https://img.shields.io/badge/C%23-.NET-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C# .NET" />
+      <img src="https://img.shields.io/badge/ASP.NET-Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/Entity-Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" />
+      <img src="https://img.shields.io/badge/SQL-Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Frontend-Development-61DAFB?style=for-the-badge" alt="Frontend Development" />
+      <br/>
+      <img src="https://img.shields.io/badge/WPF-XAML-0078D7?style=flat-square&logo=windows&logoColor=white" alt="WPF XAML" />
+      <img src="https://img.shields.io/badge/WinForms-Desktop-0078D7?style=flat-square&logo=windows&logoColor=white" alt="WinForms" />
+      <img src="https://img.shields.io/badge/React-Web-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-Framework-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Mobile-Development-3DDC84?style=for-the-badge" alt="Mobile Development" />
+      <br/>
+      <img src="https://img.shields.io/badge/Android-Native-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Kotlin-Language-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Java-Android-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Integration-&%20APIs-FF6C37?style=for-the-badge" alt="Integration & APIs" />
+      <br/>
+      <img src="https://img.shields.io/badge/RESTful-APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="RESTful APIs" />
+      <img src="https://img.shields.io/badge/Microservices-Architecture-1B1F23?style=flat-square&logo=docker&logoColor=white" alt="Microservices" />
+      <img src="https://img.shields.io/badge/Payment-Integration-6772E5?style=flat-square&logo=stripe&logoColor=white" alt="Payment Integration" />
+      <img src="https://img.shields.io/badge/M--PESA-Integration-4CAF50?style=flat-square&logo=mpesa&logoColor=white" alt="M-PESA" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/DevOps-&%20Tools-2496ED?style=for-the-badge" alt="DevOps & Tools" />
+      <br/>
+      <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Azure-Cloud-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Digital-Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="Digital Ocean" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Signature Projects
 
