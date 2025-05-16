@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,9,5,19,30&height=300&section=header&text=Joshua%20N.%20Mwakio&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Lead%20%7C%20Enterprise%20Software%20Architect&descAlignY=60&descAlign=62&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24,23,22,21,20&height=300&section=header&text=Joshua%20N.%20Mwakio&fontSize=90&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Technical%20Lead%20%7C%20Enterprise%20Software%20Architect&descAlignY=60&descAlign=62&descColor=000000" width="100%" />
 
 <p align="left">
   <a href="https://twitter.com/Josh_Mwakio">
@@ -6,6 +6,9 @@
   </a>
   <a href="https://www.linkedin.com/in/joshmwakio/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@mwakio.joshua">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://www.fiverr.com/s/BRxmZwd">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
@@ -104,24 +107,6 @@ Innovative **Technical Lead** and **Full-Stack Developer** with over 5 years of 
 
 ## 🏆 Signature Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=bunifu-accounts-erp&theme=vue&hide_border=true&show_icons=true" alt="Bunifu Accounts ERP" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=b2b-payment-apis&theme=vue&hide_border=true&show_icons=true" alt="B2B Payment APIs" />
-  </a>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=cyber-file-tracker&theme=vue&hide_border=true&show_icons=true" alt="Cyber File Tracker" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=bunifu-framework-ui&theme=vue&hide_border=true&show_icons=true" alt="Bunifu Framework UI" />
-  </a>
-</div>
-
 ### Bunifu Accounts ERP and Business Intelligence
 Comprehensive management solution for schools featuring accounting software and payroll management system. Built with microservices architecture using C# and ASP.NET Core, with WinForms/WPF front-end and mobile app access.
 
@@ -165,20 +150,28 @@ Sophisticated program ensuring the integrity and security of confidential files 
   - User-centric design for streamlined file management
 </details>
 
-## 📚 Knowledge Sharing
+## 📚 Knowledge Sharing & Technical Writing
 
 <p align="left">
   <a href="https://www.youtube.com/watch?v=Hid2LUOvWCc">
     <img src="https://img.shields.io/badge/YouTube-Bunifu_Framework_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube - Bunifu Framework Tutorials" />
   </a>
+  <a href="https://medium.com/@mwakio.joshua">
+    <img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium - Technical Articles" />
+  </a>
 </p>
 
-I'm passionate about sharing knowledge and contributing to the developer community. I create tutorials and educational content focused on:
+I'm passionate about sharing knowledge and contributing to the developer community through tutorials, articles, and educational content focused on:
 
 - **.NET Development**: Best practices and architectural patterns
-- **UI/UX Design**: Creating intuitive user interfaces for desktop applications
+- **UI/UX Design**: Creating intuitive user interfaces for desktop and mobile applications
 - **ERP Systems**: Designing and implementing enterprise resource planning solutions
 - **Payment Integration**: Connecting financial systems with payment gateways
+
+### Featured Articles
+- [How to integrate a BunifuVScrollBar with BunifuCustomDataGrid](https://medium.com/@mwakio.joshua)
+- [A definitive guide for creating a Booking dashboard](https://medium.com/@mwakio.joshua)
+- [Project analytics UX/UI dashboard Design](https://medium.com/@mwakio.joshua)
 
 ## 📊 GitHub Activity
 
@@ -255,6 +248,9 @@ I don't just write code—I solve business problems. My development process focu
   <a href="https://twitter.com/Josh_Mwakio">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x" alt="X - Follow" />
   </a>
+  <a href="https://medium.com/@mwakio.joshua">
+    <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium" alt="Medium - Follow" />
+  </a>
   <a href="mailto:joshmwakio@tr3kz.onmicrosoft.com">
     <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook" alt="Email - Contact" />
   </a>
@@ -263,4 +259,4 @@ I don't just write code—I solve business problems. My development process focu
 <h3>Let's build something extraordinary together!</h3>
 <p>Whether you're looking for a technical partner for your next project, seeking expert advice, or interested in collaboration opportunities, I'd love to connect and explore how we can create impactful solutions together.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5,19,30&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,23,22,21,20&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=30&fontColor=000000&fontAlignY=50&animation=twinkling" width="100%" />
