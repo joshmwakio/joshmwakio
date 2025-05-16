@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Joshua%20N.%20Mwakio&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Technical%20Lead%20%7C%20Enterprise%20Software%20Architect&descAlignY=60&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,9,5,19,30&height=300&section=header&text=Joshua%20N.%20Mwakio&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Lead%20%7C%20Enterprise%20Software%20Architect&descAlignY=60&descAlign=62&descColor=ffffff" width="100%" />
 
 <p align="left">
   <a href="https://twitter.com/Josh_Mwakio">
@@ -98,27 +98,27 @@ Innovative **Technical Lead** and **Full-Stack Developer** with over 5 years of 
 </p>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmwakio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshmwakio&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmwakio&layout=compact&theme=vue&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshmwakio&theme=vue&hide_border=true" alt="GitHub Streak Stats" width="50%" />
 </div>
 
 ## 🏆 Signature Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=bunifu-accounts-erp&theme=radical&bg_color=141321&title_color=fd428e&icon_color=f8d847&hide_border=true&show_icons=true" alt="Bunifu Accounts ERP" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=bunifu-accounts-erp&theme=vue&hide_border=true&show_icons=true" alt="Bunifu Accounts ERP" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=b2b-payment-apis&theme=radical&bg_color=141321&title_color=fd428e&icon_color=f8d847&hide_border=true&show_icons=true" alt="B2B Payment APIs" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=b2b-payment-apis&theme=vue&hide_border=true&show_icons=true" alt="B2B Payment APIs" />
   </a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=cyber-file-tracker&theme=radical&bg_color=141321&title_color=fd428e&icon_color=f8d847&hide_border=true&show_icons=true" alt="Cyber File Tracker" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=cyber-file-tracker&theme=vue&hide_border=true&show_icons=true" alt="Cyber File Tracker" />
   </a>
   <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=bunifu-framework-ui&theme=radical&bg_color=141321&title_color=fd428e&icon_color=f8d847&hide_border=true&show_icons=true" alt="Bunifu Framework UI" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=joshmwakio&repo=bunifu-framework-ui&theme=vue&hide_border=true&show_icons=true" alt="Bunifu Framework UI" />
   </a>
 </div>
 
@@ -207,7 +207,7 @@ I don't just write code—I solve business problems. My development process focu
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Enterprise%20Software-fd428e?style=flat-square" alt="Enterprise Software" /><br/>
+      <img src="https://img.shields.io/badge/-Enterprise%20Software-42b883?style=flat-square" alt="Enterprise Software" /><br/>
       ERP systems, Business Intelligence, and custom business applications
     </td>
     <td>
@@ -217,21 +217,21 @@ I don't just write code—I solve business problems. My development process focu
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Mobile%20Development-a55eea?style=flat-square" alt="Mobile Development" /><br/>
+      <img src="https://img.shields.io/badge/-Mobile%20Development-35495e?style=flat-square" alt="Mobile Development" /><br/>
       Native Android applications with backend integration
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-API%20Development-ff7675?style=flat-square" alt="API Development" /><br/>
+      <img src="https://img.shields.io/badge/-API%20Development-41b883?style=flat-square" alt="API Development" /><br/>
       RESTful APIs, microservices architecture, and payment gateways
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Database%20Design-0984e3?style=flat-square" alt="Database Design" /><br/>
+      <img src="https://img.shields.io/badge/-Database%20Design-35495e?style=flat-square" alt="Database Design" /><br/>
       SQL Server, MySQL, and SQLite with efficient data models
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-UI%2FUX%20Implementation-fdcb6e?style=flat-square" alt="UI/UX Implementation" /><br/>
+      <img src="https://img.shields.io/badge/-UI%2FUX%20Implementation-42b883?style=flat-square" alt="UI/UX Implementation" /><br/>
       Desktop and mobile interfaces with focus on user experience
     </td>
   </tr>
@@ -239,7 +239,7 @@ I don't just write code—I solve business problems. My development process focu
 
 ## 🔮 What I'm Working On Now
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshmwakio&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="50%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=joshmwakio&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats" width="50%" align="right" />
 
 - **Advanced ERP Modules**: Developing additional modules for the Bunifu Accounts ERP system
 - **AI-Enhanced Reporting**: Integrating AI capabilities into business intelligence dashboards
@@ -263,4 +263,4 @@ I don't just write code—I solve business problems. My development process focu
 <h3>Let's build something extraordinary together!</h3>
 <p>Whether you're looking for a technical partner for your next project, seeking expert advice, or interested in collaboration opportunities, I'd love to connect and explore how we can create impactful solutions together.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=30&fontAlignY=50&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,5,19,30&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=30&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
