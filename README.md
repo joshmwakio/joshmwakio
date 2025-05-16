@@ -3,8 +3,8 @@
 <div align="left">
   <a href="https://twitter.com/Josh_Mwakio">
     <img
-      src="https://img.shields.io/twitter/follow/Josh_Mwakio?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Josh Mwakio on Twitter"
+      src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white"
+      alt="Josh Mwakio on X (formerly Twitter)"
     />
   </a>
   <a href="https://www.linkedin.com/in/joshmwakio/">
@@ -17,6 +17,12 @@
     <img
       src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white"
       alt="Josh Mwakio's Development Services on Fiverr"
+    />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~010f8f2c6d792ba6cb?mp_source=share">
+    <img
+      src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white"
+      alt="Josh Mwakio on Upwork"
     />
   </a>
 
@@ -35,9 +41,9 @@
 Senior Full-stack developer specializing in .NET Core, ASP.NET, React.js, and Android development. I create scalable, high-performance applications with clean architecture and exceptional user experiences. With expertise in both backend systems and frontend interfaces, I deliver end-to-end solutions for businesses and startups.
 
 - 🚀 **Expert in**: .NET Development, React.js, RESTful APIs, SQL Server, Android App Development
-- 🌱 **Currently exploring**: Microservices Architecture, .NET 8, React Server Components, Performance Optimization
+- 🌱 **Currently exploring**: Microsoft Certifications (MCPs), Jetpack Compose, AI integration with LLMs, Generative AI, Computer Vision, and emerging AI technologies
 - 💬 **Technical consultation**: Full-stack architecture, Mobile app development, Database design, UI/UX implementation
-- 🔗 **Hire me on [Fiverr](https://www.fiverr.com/s/BRxmZwd)** for custom development services and technical solutions
+- 🔗 **Hire me on [Fiverr](https://www.fiverr.com/s/BRxmZwd) or [Upwork](https://www.upwork.com/freelancers/~010f8f2c6d792ba6cb?mp_source=share)** for custom development services
 - ☕ Passionate about clean code, software architecture, and a freshly brewed cup of coffee 😊
 
 ## 🛠️ Technology Expertise
@@ -64,7 +70,14 @@ Senior Full-stack developer specializing in .NET Core, ASP.NET, React.js, and An
 ![Android](https://img.shields.io/badge/-Android_Development-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### AI & Emerging Technologies
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_Integration-412991?style=flat-square&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-3B88C3?style=flat-square&logo=opencv&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -91,8 +104,12 @@ Created a HIPAA-compliant healthcare management system with ASP.NET Core, Entity
 
 ## 💼 Professional Services
 
-Looking for expert development services? I offer professional software development on [Fiverr](https://www.fiverr.com/s/BRxmZwd):
+Looking for expert development services? I offer professional software development on multiple platforms:
 
+- 🔗 **[Upwork Profile](https://www.upwork.com/freelancers/~010f8f2c6d792ba6cb?mp_source=share)** - For enterprise clients and long-term projects
+- 🔗 **[Fiverr Gigs](https://www.fiverr.com/s/BRxmZwd)** - For specific development tasks and quick turnarounds
+
+### Services Offered:
 - 🖥️ **Custom Web Applications**: Full-stack development with .NET Core and React.js
 - 📱 **Mobile App Development**: Native Android and cross-platform solutions
 - 🔧 **API Development**: RESTful and GraphQL API design and implementation
@@ -103,7 +120,8 @@ Looking for expert development services? I offer professional software developme
 
 Interested in working together? Reach out through:
 - 💼 [LinkedIn](https://www.linkedin.com/in/joshmwakio/)
-- 🐦 [Twitter](https://twitter.com/Josh_Mwakio)
+- 🐦 [X (formerly Twitter)](https://twitter.com/Josh_Mwakio)
+- 💻 [Upwork](https://www.upwork.com/freelancers/~010f8f2c6d792ba6cb?mp_source=share)
 - 🔗 [Fiverr](https://www.fiverr.com/s/BRxmZwd)
 
 Let's build something amazing together!
