@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.3412849350225" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="183.3412849350225" y="0" width="108.56223212631087" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="291.9035170613334" y="0" width="88.17906568899205" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="380.08258275032546" y="0" width="79.9174172496746" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.88186984442643" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="159.88186984442643" y="0" width="156.63799109181207" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="316.5198609362385" y="0" width="75.2659686055743" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="391.78582954181275" y="0" width="68.2141704581872" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                TypeScript
                             </div>
                             <small>
-                                <div>909 kB</div>
-                                <div>39.86%</div>
+                                <div>929 kB</div>
+                                <div>34.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>437 kB</div>
-                                <div>19.17%</div>
+                                <div>16.36%</div>
                             </small>
                         </div>
                     </section>
@@ -57,13 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                JavaScript
                             </div>
                             <small>
-                                <div>538 kB</div>
-                                <div>23.6%</div>
+                                <div>910 kB</div>
+                                <div>34.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,7 +75,7 @@
                             </div>
                             <small>
                                 <div>396 kB</div>
-                                <div>17.37%</div>
+                                <div>14.83%</div>
                             </small>
                         </div>
                     </section>
